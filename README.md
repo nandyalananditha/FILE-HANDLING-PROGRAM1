@@ -58,4 +58,4 @@ By combining writing, reading, and appending operations in a single application,
 
 OUTPUT EXAMPLE:
 
-![Screenshot 2025-05-24 143738](https://github.com/user-attachments/assets/cc390f07-04e1-4144-bc9b-5260db43f8c0)
+![Image](https://github.com/user-attachments/assets/c489e774-0a22-4805-ad1a-85146bae8ac2)

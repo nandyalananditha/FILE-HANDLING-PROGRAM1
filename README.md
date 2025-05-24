@@ -55,3 +55,7 @@ Conclusion:
 This project provides a hands-on experience with file handling in C, demonstrating how to manage text files using various modes. It emphasizes the importance of error handling and step-by-step validation, which are critical in real-world systems where file operations may fail due to missing permissions, incorrect paths, or corrupted files.
 
 By combining writing, reading, and appending operations in a single application, this program offers a holistic view of how files are used in everyday software and helps build a solid foundation for further exploration into file I/O in C and other programming languages.
+
+OUTPUT EXAMPLE:
+
+![Screenshot 2025-05-24 143738](https://github.com/user-attachments/assets/cc390f07-04e1-4144-bc9b-5260db43f8c0)

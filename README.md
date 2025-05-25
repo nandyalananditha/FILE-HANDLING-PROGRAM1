@@ -6,7 +6,7 @@
 
 *INTERN ID*: CT04DN872
 
-*DOMAIN*: C LANGUAGE
+*DOMAIN*: C Programming
 
 *DURATION*: 4 WEEKS
 
